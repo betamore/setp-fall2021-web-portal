@@ -18,7 +18,9 @@ tagline: Betamore Software Engineering Course Documentation
 description: Dashboard for Betamore's Software Engineering Training Program 
 author: Aaron Brooks
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+#url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: '#' # the base hostname & protocol for your site, e.g. http://example.com
+
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -28,10 +30,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Course Repo on GitHub:
+    - 'https://github.com/betamore/setp-fall-2021'
 footer_content:
 
 # Collections for website data
