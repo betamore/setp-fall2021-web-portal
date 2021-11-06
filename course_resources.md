@@ -25,7 +25,6 @@ You may use whichever text editor you prefer, but we recommend and will be using
 Download - [VSCode link](https://code.visualstudio.com/)
 
 <br/>
-<br/>
 
 ## Communication
 
